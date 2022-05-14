@@ -1,5 +1,5 @@
 # wikipedia_ja_ngram
-2021年7月時点の日本語Wikipediaの記事をダウンロードし、ひらがなのn-gramを抽出しました。
+2021年7月時点でダウンロードした日本語Wikipediaの記事をから、ひらがなのn-gramを抽出しました。
 
 ## wikipedia.hiragana-ized.1-3gram.txt
 1. 漢字およびカタカナをひらがなに変換
