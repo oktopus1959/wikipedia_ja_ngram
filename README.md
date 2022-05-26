@@ -121,3 +121,12 @@ EOS
 
 この文では「オオクツヅイている」という出力が得られます。
 最終的にカタカナをひらがなに変換して出来上がりです。
+
+## おまけ
+### Wikipedia.hiragana.visualization.pdf
+unigram と bigram の上位を抽出して可視化したもの。
+
+### KanchokuWS-README.hiragana.visualization.pdf
+KanchokuWS の README に含まれるひらがなについて同様な可視化を行ったもの。
+
+
